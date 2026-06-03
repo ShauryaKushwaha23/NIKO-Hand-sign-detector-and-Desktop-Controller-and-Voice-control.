@@ -1,3 +1,2 @@
-# NIKO-Hand-sign-detector-and-Desktop-Controller-and-Voice-control.
-NIKO is a Hand singn detector and Desktop controller using hand gestures and also works with voice control(in progress)
-Also working proof attached.
+# NIKO CONTROL SYSTEM -Hand-sign-detector-and-Desktop-Controller-and-Voice-control.
+NIKO CONTROL SYSTEM is a next-generation human–computer interaction project that turns your webcam into a full PC control interface using real-time hand tracking + voice commands. Built with OpenCV, MediaPipe, PyAutoGUI, and Speech Recognition, it lets you literally control your computer in the air — no mouse required.
